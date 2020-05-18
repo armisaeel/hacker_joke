@@ -1,0 +1,3 @@
+Pillow==4.0.0
+pywin32==220.1
+winpython==1.7.20170128
